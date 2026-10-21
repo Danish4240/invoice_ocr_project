@@ -1,6 +1,7 @@
 streamlit
 pandas
-openpyxl
-pillow
-pytesseract
+numpy
 opencv-python
+easyocr
+pillow
+openpyxl
